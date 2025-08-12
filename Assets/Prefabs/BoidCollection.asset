@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6d2b88b3a6c44778a43187fde771cca0, type: 3}
-  m_Name: FishCollection
+  m_Name: BoidCollection
   m_EditorClassIdentifier: 
   boids:
   - boidPrefab: {fileID: 4969604247153497468, guid: d8938d7e7ae87fb439fac639d1d1af3d, type: 3}
